@@ -3,7 +3,7 @@
 This is a telegram-bot project. After entering the TOKEN of your own robot, run the file(llm_assistant_bot.py) to start the llm assistant.
 There are 3 models of this assistant: StatLM (n-gram) , GPT (trained gpt2) , Llama (meta-llama/Llama-2-7b-hf).Because llama is too big, it is commented out by default.
 
-Because these models are too large, they are stored in the cloud disk by me : https://drive.google.com/drive/folders/1EVOb-mqurYdknBPzb9XaHD4hSjLHHCBE?usp=drive_link
+Because these models are too large, they are stored in the cloud disk by me : https://drive.google.com/drive/folders/1U3-pTRWiTG5JEXgZg5bts8R440I-miaq?usp=drive_link
 
 ```python
 python llm_assistant_bot.py
